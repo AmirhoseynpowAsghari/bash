@@ -1,1 +1,1 @@
-# This is my first project in bash script    
+This is my first project in bash script    
